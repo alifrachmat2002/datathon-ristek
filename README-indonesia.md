@@ -12,7 +12,8 @@ Dataset kompetisi dapat diakses di [Kaggle](https://www.kaggle.com/link-dataset-
 
 Berikut ini adalah beberapa notebook yang memperlihatkan langkah-langkah kerja dan pendekatan saya dalam kompetisi ini:
 
-1. [Notebook dengan MLforecast, LGBM, dan XGBoostRegressor](https://github.com/nama-username/nama-repo-anda/blob/main/notebooks/notebook_datathon.ipynb) - Notebook ini menjelaskan langkah-langkah yang saya ambil untuk melakukan pra-pemrosesan data, melakukan rekayasa fitur, dan melatih model menggunakan library MLforecast, model LGBM, dan model XGBoostRegressor. Saya juga menggunakan library Optuna untuk penyetelan parameter.
+1. [Notebook for preprocessing the data](https://github.com/your-username/your-repo-name/blob/main/notebooks/datathon_notebook.ipynb) - Notebook ini menjelaskan langkah-langkah yang saya ambil untuk melakukan preprocessing dan membersihkan data.
+2. [Notebook with MLforecast and LGBM Model](https://github.com/your-username/your-repo-name/blob/main/notebooks/datathon_notebook.ipynb), and [Notebook with MLforecast and XGBoostRegressor Model](https://github.com/your-username/your-repo-name/blob/main/notebooks/datathon_notebook.ipynb) -  Notebook ini menjelaskan langkah-langkah yang saya ambil untuk melatih model menggunakan library MLforecast, model LGBM, dan model XGBoostRegressor. Saya juga menggunakan library Optuna untuk melakukan tuning hyperparameter.
 
 ## Model yang Digunakan
 
