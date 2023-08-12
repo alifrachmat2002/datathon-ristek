@@ -1,4 +1,4 @@
-# Datathon Open Competition - Peramalan Kecepatan Rata-rata Jalan London
+# Datathon Open Competition - Forecasting Kecepatan Rata-rata Jalan London
 
 ## Ikhtisar
 
