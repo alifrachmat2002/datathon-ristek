@@ -12,7 +12,7 @@ The competition dataset is available on [Kaggle](https://www.kaggle.com/competit
 
 The following notebooks showcase my work and approach for this competition:
 
-1. [Notebook for preprocessing the data](https://github.com/your-username/your-repo-name/blob/main/notebooks/datathon_notebook.ipynb) - This notebook outlines the steps I took to preprocess and clean the data.
+1. [Notebook for preprocessing the data](https://github.com/alifrachmat2002/datathon-ristek/blob/ead0edccdc00f1a8f88814767787ccfadd1d2aab/Datathon%20-%20Preprocessing%20Code.ipynb) - This notebook outlines the steps I took to preprocess and clean the data.
 2. [Notebook with MLforecast and LGBM Model](https://github.com/your-username/your-repo-name/blob/main/notebooks/datathon_notebook.ipynb), and [Notebook with MLforecast and XGBoostRegressor Model](https://github.com/your-username/your-repo-name/blob/main/notebooks/datathon_notebook.ipynb) -  This notebook outlines the steps I took to train the models using the MLforecast library, LGBM model, and XGBoostRegressor model. I also used the Optuna library for hyperparameter tuning.
 
 ## Models Used
