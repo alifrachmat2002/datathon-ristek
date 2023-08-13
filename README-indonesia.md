@@ -6,7 +6,7 @@ Repository ini berisi hasil kerja saya untuk Kompetisi Datathon Open yang disele
 
 ## Dataset
 
-Dataset kompetisi dapat diakses di [Kaggle](https://www.kaggle.com/link-dataset-di-sini). Ini berisi informasi historis tentang kecepatan rata-rata jalan di London untuk periode waktu yang telah ditentukan.
+Dataset kompetisi dapat diakses di [Kaggle](https://www.kaggle.com/link-dataset-di-sini). Ini berisi informasi historis tentang kecepatan rata-rata jalan di London untuk periode waktu yang telah ditentukan. Data Tambahan yang digunakan di Notebook tersedia [Disini](https://github.com/alifrachmat2002/datathon-ristek/blob/ffb8d3c09ff86cb6ae63fec1bbb59745c50f2864/informasi-jalan.csv)
 
 ## Notebook
 
