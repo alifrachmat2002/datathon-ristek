@@ -6,7 +6,7 @@ This repository contains the work I've done for the Datathon Open Competition or
 
 ## Dataset
 
-The competition dataset is available on [Kaggle](https://www.kaggle.com/competitions/ristek-datathon-2023/data). It includes historical information about street average speeds in London for the specified time period.
+The competition dataset is available on [Kaggle](https://www.kaggle.com/competitions/ristek-datathon-2023/data). It includes historical information about street average speeds in London for the specified time period. Additional Data that is used in the Notebooks is available [Here](https://github.com/alifrachmat2002/datathon-ristek/blob/ffb8d3c09ff86cb6ae63fec1bbb59745c50f2864/informasi-jalan.csv)
 
 ## Notebooks
 
